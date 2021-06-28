@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - zoom (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - zoom (from `.symlinks/plugins/zoom/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  zoom:
+    :path: ".symlinks/plugins/zoom/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+  zoom: 538e0eb7d7437a7a61e976ae9d5fce70a1080418
+
+PODFILE CHECKSUM: 96a0047845f962487b194a3aa86ff7b33aa09ba1
+
+COCOAPODS: 1.10.1
